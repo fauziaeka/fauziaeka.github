@@ -11,7 +11,7 @@ on:
     pages: write
     id-token: write
 
-conncurrency:
+concurrency:
   group: "pages"
   cancel-in-progress: false
 
