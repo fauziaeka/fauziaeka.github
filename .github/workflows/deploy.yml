@@ -6,7 +6,7 @@ on:
       - main  # Set the branch you want to deploy from
   workflow_dispatch:
 
-  ppermissions:
+  permissions:
     contents: read
     pages: write
     id-token: write
