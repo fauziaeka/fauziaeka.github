@@ -2,5 +2,5 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   plugins: [],
-  base: '/f1ru14.github.io/',
+  base: '/F1ru14.github.io/',
 })
